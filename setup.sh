@@ -13,3 +13,4 @@ ln -s $PWD/gitconfig $HOME/.gitconfig
 ln -s $PWD/vimrc $HOME/.vimrc
 ln -s $PWD/xinitrc $HOME/.xinitrc
 ln -s $PWD/Xresources $HOME/.Xresources
+ln -s $PWD/Tomorrow-Night.vim $HOME/.vim/colors/Tomorrow-Night.vim
