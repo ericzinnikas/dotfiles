@@ -33,3 +33,5 @@ bspc rule -a feh floating=on manage=off
 
 bspc monitor HDMI-0 -d I II III IV
 bspc monitor DVI-D-0 -d I II III IV
+# for laptop
+bspc monitor LVDS-0 -d I II III IV
