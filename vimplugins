@@ -1,5 +1,5 @@
-## not a config file, just git clone the following into ~/.vim/bundle/ (pathogen)
+## not a config file, just git clone the following into ~/.vim/bundle/ (install pathogen first and clang)
 git@github.com:tpope/vim-sensible.git
 git@github.com:scrooloose/syntastic.git
 git@github.com:LaTeX-Box-Team/LaTeX-Box.git
-git@github.com:Valloric/YouCompleteMe.git (need to compile too; ./install --clang-completer)
+git@github.com:Valloric/YouCompleteMe.git (need to compile too; ./install --clang-completer --system-libclang)
