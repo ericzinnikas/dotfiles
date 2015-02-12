@@ -1,4 +1,9 @@
 #!/bin/sh
+#installed programs:
+#bspwm, sxhkd, compton, feh, rxvt-unicode, rxvt-unicode-terminfo, ttf-inconsolata-g
+#config notes:
+#place wallpaper in ~/wallpaper.png
+#setup .ssh/config manually
 ln -s $PWD/bashrc $HOME/.bashrc
 ln -s $PWD/compton.conf $HOME/.config/compton.conf
 ln -s $PWD/bspwmrc $HOME/.config/bspwm/bspwmrc
